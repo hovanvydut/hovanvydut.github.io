@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Notebook
+description: My notebook. Let check it out!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://hovanvydut.github.io/hovanvydut
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+plugins:
+  - jekyll-default-layout
+  - jekyll-spaceship
+
+enable_copy_code_button: true
+color_scheme: light
