@@ -15,14 +15,14 @@ To make it as easy as possible to write documentation in plain Markdown, most UI
 ---
 title: Simple sample
 ---
-stateDiagram-v2
-    [*] --> Still
-    Still --> [*]
-
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
+flowchart LR
+    A-->B
+    B-->C
+    C-->D
+    click A callback "Tooltip for a callback"
+    click B "https://www.github.com" "This is a tooltip for a link"
+    click C call callback() "Tooltip for a callback"
+    click D href "https://www.github.com" "This is a tooltip for a link"
 @endmermaid
 
 $ \int\_a^b f(x)\,dx. $
@@ -31,6 +31,6 @@ $ \int\_a^b f(x)\,dx. $
 Bob -> Alice : hello
 @enduml
 
-![](https://www.youtube.com/watch?v=Ptk_1Dc2iPY?width=800&height=500)
+![](https://www.youtube.com/watch?v=fQT7IzcI56E?width=800&height=500)
 
 ![](https://www.dailymotion.com/video/x7tfyq3?width=100%&height=400&autoplay=1)
