@@ -8,4 +8,5 @@ permalink: /docs/leetcode
 
 # Leetcode
 
-My leetcode profile: [hovanvydut](https://leetcode.com/hovanvydut/)
+
+[Leetcode profile](https://leetcode.com/hovanvydut/){: .btn }
