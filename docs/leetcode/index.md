@@ -8,29 +8,4 @@ permalink: /docs/leetcode
 
 # Leetcode
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
-{: .fs-6 .fw-300 }
-
-@startmermaid
----
-title: Simple sample
----
-flowchart LR
-    A-->B
-    B-->C
-    C-->D
-    click A callback "Tooltip for a callback"
-    click B "https://www.github.com" "This is a tooltip for a link"
-    click C call callback() "Tooltip for a callback"
-    click D href "https://www.github.com" "This is a tooltip for a link"
-@endmermaid
-
-$ \int\_a^b f(x)\,dx. $
-
-@startuml
-Bob -> Alice : hello
-@enduml
-
-![](https://www.youtube.com/watch?v=fQT7IzcI56E?width=800&height=500)
-
-![](https://www.dailymotion.com/video/x7tfyq3?width=100%&height=400&autoplay=1)
+My leetcode profile: [hovanvydut](https://leetcode.com/hovanvydut/)
