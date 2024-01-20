@@ -9,4 +9,4 @@ permalink: /docs/leetcode/graph
 
 # Graph
 
-[https://leetcode.com/studyplan/graph-theory/](https://leetcode.com/studyplan/graph-theory/)
+* [https://leetcode.com/studyplan/graph-theory/](https://leetcode.com/studyplan/graph-theory/)
