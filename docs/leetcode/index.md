@@ -10,3 +10,8 @@ permalink: /docs/leetcode
 
 
 [My Leetcode Profile](https://leetcode.com/hovanvydut/){: .btn }
+
+[UMPIRE Interview Strategy][1]
+
+-------
+[1]: https://guides.codepath.com/compsci/UMPIRE-Interview-Strategy

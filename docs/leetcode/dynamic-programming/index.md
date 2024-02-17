@@ -8,3 +8,9 @@ permalink: /docs/leetcode/dynamic-programming
 ---
 
 # Dynamic Programming
+
+[🎨  The ART of Dynamic Programming - An Intuitive Approach][1]
+
+
+-------
+[1]: https://leetcode.com/discuss/general-discussion/712010/The-ART-of-Dynamic-Programming-An-Intuitive-Approach
