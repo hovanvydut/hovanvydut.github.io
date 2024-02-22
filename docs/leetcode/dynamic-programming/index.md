@@ -11,6 +11,10 @@ permalink: /docs/leetcode/dynamic-programming
 
 [🎨  The ART of Dynamic Programming - An Intuitive Approach][1]
 
+Các bài tập cùng 1 dạng dp
+* String: 97, 583, 72, 1143, 56
+* Stock:
+* Knapsack: 
 
 -------
 [1]: https://leetcode.com/discuss/general-discussion/712010/The-ART-of-Dynamic-Programming-An-Intuitive-Approach
