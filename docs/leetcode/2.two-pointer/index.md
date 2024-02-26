@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Two pointer
-nav_order: 0
+nav_order: 3
 has_children: true
 parent: Leetcode
 permalink: /docs/leetcode/two-pointer

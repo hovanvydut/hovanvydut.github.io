@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Graph
-nav_order: 0
+nav_order: 11
 has_children: true
 parent: Leetcode
 permalink: /docs/leetcode/graph

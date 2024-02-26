@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Binary Search
-nav_order: 0
+nav_order: 4
 has_children: true
 parent: Leetcode
 permalink: /docs/leetcode/binary-search

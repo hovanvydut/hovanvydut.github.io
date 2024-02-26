@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dynamic Programming
-nav_order: 0
+nav_order: 12
 has_children: true
 parent: Leetcode
 permalink: /docs/leetcode/dynamic-programming
