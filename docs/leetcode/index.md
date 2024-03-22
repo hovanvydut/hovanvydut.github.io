@@ -12,6 +12,8 @@ permalink: /docs/leetcode
 [My Leetcode Profile](https://leetcode.com/hovanvydut/){: .btn }
 
 [UMPIRE Interview Strategy][1]
+[USACO Guide][2]
 
 -------
 [1]: https://guides.codepath.com/compsci/UMPIRE-Interview-Strategy
+[2]: https://usaco.guide
