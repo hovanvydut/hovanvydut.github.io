@@ -10,3 +10,20 @@ plugins:
 
 enable_copy_code_button: true
 color_scheme: light
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    title:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple

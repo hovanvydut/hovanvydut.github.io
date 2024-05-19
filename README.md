@@ -1,8 +1,16 @@
+# My Note
+
+## Setup
+
 ```
-rvm use v3
-bundle exec jekyll serve
+brew install rbenv ruby-build
+rbenv install 3.1.2
+
+cd /personal-blog
+rbenv local 3.1.2
 
 bundle install
+bundle exec jekyll serve
 ```
 
 # just-the-docs-template
